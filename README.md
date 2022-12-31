@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fabrício Gonga</h1>
 <h3 align="center">Full-stack developer specialised in frontend and backend development for complex  and scalable web apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fgonga&label=Profile%20views&color=0e75b6&style=flat" alt="fgonga" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=fgonga&label=Profile%20views&color=0e75b6&style=flat" alt="fgonga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgonga" alt="fgonga" /></a> </p>
+<p align="left"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgonga&margin-w=15" alt="fgonga" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.fgonga.com/projects](www.fgonga.com/projects)
+- 👨‍💻 All of my projects are available at [www.fgonga.com/projects](www.fgonga.ao/projects)
 
-- 📝 I regularly write articles on [www.fgonga.com/blog](www.fgonga.com/blog)
+- 📝 I regularly write articles on [www.fgonga.ao/blog](www.fgonga.ao/blog)
 
-- 📄 Know about my experiences [www.fgonga.com/resume](www.fgonga.com/resume)
+- 📄 Know about my experiences [www.fgonga.ao/resume](www.fgonga.ao/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
