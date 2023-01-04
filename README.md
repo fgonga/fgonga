@@ -13,11 +13,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fgonga&amp;margin-w=15" alt="fgonga"></a> </p>
 
 <ul>
-<li><p>👨‍💻 All of my projects are available at <a href="www.fgonga.ao/projects">www.fgonga.com/projects</a></p>
+<li><p>👨‍💻 All of my projects are available at <a href="https://www.fgonga.ao/projects">www.fgonga.ao/projects</a></p>
 </li>
-<li><p>📝 I regularly write articles on <a href="www.fgonga.ao/blog">www.fgonga.ao/blog</a></p>
+<li><p>📝 I regularly write articles on <a href="https://www.fgonga.ao/blog">www.fgonga.ao/blog</a></p>
 </li>
-<li><p>📄 Know about my experiences <a href="www.fgonga.ao/resume">www.fgonga.ao/resume</a></p>
+<li><p>📄 Know about my experiences <a href="https://www.fgonga.ao/resume">www.fgonga.ao/resume</a></p>
 </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
